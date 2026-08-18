@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Hi, I'm kiki 👋" />
+  <img src="assets/crystal.svg" width="220" alt="crystal" />
 </p>
+
+# Hi, I'm kiki 👋
 
 **Former JD.com AI PM & AI researcher, building human-centered AI products.**
 

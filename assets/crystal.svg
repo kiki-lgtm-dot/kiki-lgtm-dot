@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="320" viewBox="0 0 360 320" role="img" aria-label="crystal">
+  <defs>
+    <linearGradient id="tipL" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f0f7ff"/>
+      <stop offset="1" stop-color="#8fb9ff"/>
+    </linearGradient>
+    <linearGradient id="tipC" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#a9c9ff"/>
+    </linearGradient>
+    <linearGradient id="tipR" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ddd0f9"/>
+      <stop offset="1" stop-color="#8a67cf"/>
+    </linearGradient>
+    <linearGradient id="bodyL" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b7d6ff"/>
+      <stop offset="1" stop-color="#4a86e0"/>
+    </linearGradient>
+    <linearGradient id="bodyC" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaf3ff"/>
+      <stop offset="1" stop-color="#7fb0ff"/>
+    </linearGradient>
+    <linearGradient id="bodyR" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#cdb8f5"/>
+      <stop offset="1" stop-color="#6b4bb5"/>
+    </linearGradient>
+    <radialGradient id="shadow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7a9be8" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#7a9be8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- soft shadow at base -->
+  <ellipse cx="180" cy="294" rx="128" ry="24" fill="url(#shadow)"/>
+
+  <!-- body facets -->
+  <polygon points="128,130 112,290 156,290 160,130" fill="url(#bodyL)"/>
+  <polygon points="160,130 156,290 204,290 200,130" fill="url(#bodyC)"/>
+  <polygon points="200,130 204,290 248,290 232,130" fill="url(#bodyR)"/>
+
+  <!-- tip facets -->
+  <polygon points="180,40 128,130 160,130" fill="url(#tipL)"/>
+  <polygon points="180,40 160,130 200,130" fill="url(#tipC)"/>
+  <polygon points="180,40 200,130 232,130" fill="url(#tipR)"/>
+
+  <!-- specular highlight streak -->
+  <polygon points="156,140 142,284 150,284 161,140" fill="#ffffff" opacity="0.40"/>
+
+  <!-- facet edge lines -->
+  <g stroke="#ffffff" stroke-opacity="0.4" stroke-width="1.6" fill="none">
+    <line x1="180" y1="40" x2="160" y2="130"/>
+    <line x1="180" y1="40" x2="200" y2="130"/>
+    <line x1="160" y1="130" x2="156" y2="290"/>
+    <line x1="200" y1="130" x2="204" y2="290"/>
+    <line x1="128" y1="130" x2="112" y2="290"/>
+    <line x1="232" y1="130" x2="248" y2="290"/>
+  </g>
+</svg>
