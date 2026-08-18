@@ -1,4 +1,6 @@
-# Hi, I'm kiki 👋
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Hi, I'm kiki 👋" />
+</p>
 
 **Former JD.com AI PM & AI researcher, building human-centered AI products.**
 
