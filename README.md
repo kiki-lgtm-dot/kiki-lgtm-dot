@@ -29,3 +29,4 @@ I care about making AI understandable, dependable, and human — learning throug
 ---
 
 *Optimist by nature, builder by trade — on the road to AGI, one useful product at a time.*
+
