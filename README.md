@@ -2,8 +2,6 @@
 
 **Former JD.com AI PM & AI researcher, building human-centered AI products.**
 
-I'm currently building **Yunsheng**（云生）, an AI-powered short-form drama platform. I explore how AI agents and content tools can become clear, reliable, and genuinely useful in real work.
-
 <p align="left">
   <a href="https://kiki-lgtm-dot.github.io">
     <img src="https://img.shields.io/badge/BLOG-111111?style=flat-square&logo=safari&logoColor=white" alt="Blog" />
