@@ -20,7 +20,7 @@
 
 ## Now
 
-I'm building an AI Director Workbench, an emotionally supportive desktop pet, and a mutual-aid platform for pet rescue — exploring how AI agents turn early ideas into practical, human-centered products. Open-source MVPs coming soon.
+I'm building an AI Director Workbench, an emotionally supportive desktop pet, and a mutual-aid platform for pet rescue — exploring how AI agents turn early ideas into practical, human-centered products. 
 I care about making AI understandable, dependable, and human — learning through building things people genuinely want to use.
 
 ---
